@@ -1,0 +1,1 @@
+This was my first website which was a clone frontend of Sadhguru's website, currently the website interface might be changed since this was made in my 1st year of B. Tech. (2022-2023) Session. In this i have only used HTMl adn CSS no javascript at all.
